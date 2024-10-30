@@ -17,6 +17,10 @@ Each topic is organized into folders for easy navigation:
 └── examples/
     ├── fib_generator.cpp             # Allocates memory on the heap
     ├── fib_generator2.cpp            # Same as the first but with unique_ptr
+    ├── dynamic_array_resize.cpp      # Dynamic Array Resizing
+    ├── dynamic_2d_array.cpp          # Creating and Managing a 2D Dynamic Array
+    ├── reverse_array.cpp             # Reversing an Array Using Pointers
+    ├── swap_using_pointers.cpp       # Swapping Two Variables Using Pointers
 ```
 ## How to Use This Repository
 1. Clone or Download the repository:
